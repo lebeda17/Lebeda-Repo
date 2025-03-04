@@ -10,6 +10,6 @@ Repozitář obsahující přeloženou dokumentaci programu Onshape.
 ## 🖨️ Konfigurace PrusaSliceru
 
 Repozitář s aktuálními konfiguracemi pro PrusaSlicer.
-🔗 [Otevřít](https://github.com/lebeda17/Konfigurace-Prusasliceru)  
+🔗 [Otevřít](https://github.com/lebeda17/Konfigurace-Prusasliceru/releases)  
 
 Pokud máte nějaké nápady nebo připomínky, neváhejte mě kontaktovat!
